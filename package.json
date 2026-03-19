@@ -1,6 +1,7 @@
 {
   "name": "bhasha",
   "private": true,
+  "packageManager": "bun@1.3.11",
   "workspaces": ["apps/*", "packages/*"],
   "scripts": {
     "dev": "turbo run dev",
