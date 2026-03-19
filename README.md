@@ -135,10 +135,10 @@ git clone https://github.com/Mufassir-Chowdhury/bhasha.git
 cd basha
 
 # Install dependencies (Turborepo)
-npm install
+bun install
 
 # Start all services locally
-npm run dev
+bun run dev
 ```
 
 ---
